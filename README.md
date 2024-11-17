@@ -15,4 +15,4 @@ class Skills extends Desenvolvedor {
 }
 ```
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=AleKK31&show_icons=true&title_color=ff652f&text_color=ffffff&icon_color=FFE400&bg_color=09131B&cache_seconds=2300" alt="ilustração do status do github">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=AleKK31&show_icons=true&title_color=ff652f&text_color=ffffff&icon_color=FFE400&bg_color=09131B&cache_seconds=2300" alt="ilustração do status do github">

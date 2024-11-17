@@ -16,4 +16,15 @@ class Skills extends Desenvolvedor {
 ```
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=AleKK31&show_icons=true&title_color=ff652f&text_color=ffffff&icon_color=FFE400&bg_color=09131B&cache_seconds=2300" alt="ilustração do status do github">
-<img align='center' src="[https://github-readme-stats.vercel.app/api?username=AleKK31&show_icons=true&title_color=ff652f&text_color=ffffff&icon_color=FFE400&bg_color=09131B&cache_seconds=2300](https://camo.githubusercontent.com/8b0036d74d433b8545c280a3502c7852941ebf01fe98de5b4d40bca9ce1d2f3a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a726126696e636c7564655f616c6c5f636f6d6d6974733d74727565)" alt="ilustração do status do github">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>

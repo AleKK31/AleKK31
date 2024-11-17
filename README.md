@@ -1,4 +1,4 @@
-```cs
+```js
 import Desenvolvedor from "Alexandre Baccarini";
 
 class SobreMim extends Desenvolvedor {

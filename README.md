@@ -1,6 +1,8 @@
 ### 📘 About me:
 
-<p align="left">.</p>
+<p align="left">Minha trajetória começou em 2019, quando iniciei o Curso Técnico de Informática no IFRO, 
+          logo em seguida entrei na faculdade UTFPR-CM cursando Bacharelado em Ciência da computação.<br> 
+          Atualmente estou no mercado de trabalho, buscando evoluir e expandir meus conhecimentos e explorando novas tecnologias!</p>
 
 #
 

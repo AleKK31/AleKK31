@@ -4,6 +4,10 @@
           logo em seguida entrei na faculdade UTFPR-CM cursando Bacharelado em Ciência da computação.<br> 
           Atualmente estou no mercado de trabalho, buscando evoluir e expandir meus conhecimentos e explorando novas tecnologias!</p>
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alexandrebacca31)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-A020F0?style=for-the-badge&logo=&logoColor=white)](https://alexandrebaccarini.vercel.app)
+[![BoxTree](https://img.shields.io/badge/-BoxTree-00C300?style=for-the-badge&logo=tree&logoColor=white)](boxtree.vercel.app)
+
 <!-- ## 🛠️ Technologies & Tools
 
 ### Back-end

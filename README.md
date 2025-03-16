@@ -5,7 +5,7 @@
           Atualmente estou no mercado de trabalho atuando como dev full-stack, buscando evoluir e expandir meus conhecimentos e explorando novas tecnologias!</p>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alexandrebacca31/)
-[![Portfólio](https://img.shields.io/badge/CV-View-black?style=flat&logo=adobeacrobatreader&logoColor=white)](https://alexandrebaccarini.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Portifolio-View-black?style=flat&logo=adobeacrobatreader&logoColor=white)](https://alexandrebaccarini.vercel.app)
 [![BoxTree](https://img.shields.io/badge/BoxTree-View-black?style=flat&logo=adobeacrobatreader&logoColor=white)](https://boxtree.vercel.app)
 
 ## 🛠️ Technologies
